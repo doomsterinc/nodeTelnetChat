@@ -1,0 +1,15 @@
+{
+  "name": "node_telnet_chat",
+  "version": "1.0.0",
+  "description": "minify chat telnet",
+  "main": "mini0chat.js",
+  "dependencies": {
+    "carrier": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doom",
+  "license": "ISC"
+}
