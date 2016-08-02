@@ -11,5 +11,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Doom",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/nodeTelnetChat.git"
+  },
+  "keywords": [
+    "chat",
+    "telnet",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/doomsterinc/nodeTelnetChat/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/nodeTelnetChat#readme"
 }
